@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-![Portfolio Screenshot](https://i.ibb.co/MkxZJRJ/My-Portfolio.png)
+![Portfolio Screenshot](assets/img/screenshot.png)
 
 Welcome to my personal portfolio website! This repository hosts the code and assets for my portfolio website, which can be accessed at [https://itsdchanda.github.io/portfolio/](https://itsdchanda.github.io/portfolio/).
 
